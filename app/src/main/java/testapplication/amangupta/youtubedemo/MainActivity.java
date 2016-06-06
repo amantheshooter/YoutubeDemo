@@ -21,7 +21,7 @@ import java.util.List;
 
 public class MainActivity extends YouTubeBaseActivity implements
         YouTubePlayer.OnInitializedListener, View.OnClickListener {
-    private static final String DEVELOPER_KEY = "AIzaSyBfeip_1VzrFATTbRJvjyqpy2Vsw6Mm_XE";
+    private static final String DEVELOPER_KEY = "YOUR_DEVELOPER_KEY";
     private static final String VIDEO_ID = "cdgQpa1pUUE";
     private Button playVideoButton;
     private CheckBox lightboxModeCheckBox;
